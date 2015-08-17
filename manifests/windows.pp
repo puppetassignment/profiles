@@ -1,3 +1,3 @@
 class profiles::windows {
-include ::windows
+include ::windowsk
  }
